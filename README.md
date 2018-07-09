@@ -12,5 +12,20 @@ yarn install
 yarn start
 ```
 
+```
+README.md
+copy.sh
+dist
+node_modules
+package.json
+yarn.lock
+src
+├── index.html
+├── javascripts
+│   └── index.js
+└── stylesheets
+    └── index.scss
+```
+
 ## License
 MIT
