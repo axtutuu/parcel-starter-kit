@@ -3,7 +3,7 @@ Simple Parcel Starter Kit
 
 ## Features
 
-* Basic [parcel](https://github.com/parcel-bundler/parcel) features (EX: BABEL, PostCSS)
+* Basic [parcel](https://github.com/parcel-bundler/parcel) features (EX: Babel, PostCSS)
 * Sass, Autoprefixer
 
 ## Usage
