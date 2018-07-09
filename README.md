@@ -6,12 +6,6 @@ Simple Parcel Starter Kit
 * Basic [parcel](https://github.com/parcel-bundler/parcel) features (EX: Babel, PostCSS)
 * Sass, Autoprefixer
 
-## Usage
-```
-yarn install
-yarn start
-```
-
 ```
 README.md
 copy.sh
@@ -25,6 +19,12 @@ src
 │   └── index.js
 └── stylesheets
     └── index.scss
+```
+
+## Usage
+```
+yarn install
+yarn start
 ```
 
 ## License
